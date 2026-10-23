@@ -1,0 +1,9 @@
+{
+  "name": "Decision Wheel",
+  "short_name": "Decision Wheel",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f2ff",
+  "theme_color": "#6941c6",
+  "icons": []
+}
